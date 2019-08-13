@@ -74,3 +74,13 @@ body {
 }
 .close{
 color: floralwhite;
+}
+@media (max-width: 575.98px) {
+  div {
+    width: 100%;
+  }
+  h2,span{
+    font-size: 16px;
+  }
+}
+
